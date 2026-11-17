@@ -1,5 +1,8 @@
 # 警備配置路線マップ作成クエリ
 
+## 成果物
+[配置路線マップ(Googleマイマップ)](https://www.google.com/maps/d/u/0/edit?mid=1XWIEyJzi3s48IrGH-PSplKwfwelCs5o&usp=sharing)
+
 ## 背景・問題点・課題
 交通誘導警備の工事現場でにて、警備員の資格者配置路線を共有する手段がなく、
 口頭での説明に頼っていた為、警備員配置まで時間がかかってしまっていた。
